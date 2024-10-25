@@ -1,0 +1,20 @@
+{
+  "validPremiumKeys": {
+    "permanent": [
+      { "key": "aB7cD9Ef2GhIjK1LmNoPqR8sTuVwXy34Z", "status": true },
+      { "key": "Xk9Lm2Np3QrStUv4WxYz5Ab6CdEfGhIj", "status": false }
+    ],
+    "monthly": [
+      { "key": "7JkLmN8pQrStU1vWxYz2AbCd3EfGh4Ij", "status": false },
+      { "key": "Qw3Er5Ty7UiOp1AsDfGhJkL9ZxCvBnMm", "status": false }
+    ],
+    "biweekly": [
+      { "key": "2WsXdCrFvTgByHnUjMiKoLpP0ZaQwE4R", "status": false },
+      { "key": "8IkJhGfDsA1PoLkJhGfDsA2WsXdCrFvT", "status": false }
+    ],
+    "weekly": [
+      { "key": "9EdCvBnMlKjHgFdSa4PoIuYtReWq9Wx6", "status": false },
+      { "key": "5TgByHnUjMiKoLpZaQwE4R7IkJhGfDs", "status": false }
+    ]
+  }
+}
