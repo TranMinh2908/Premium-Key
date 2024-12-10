@@ -2,7 +2,8 @@
   "validPremiumKeys": {
     "permanent": [
       { "key": "aB7cD9Ef2GhIjK1LmNoPqR8sTuVwXy34Z", "status": true },
-      { "key": "Xk9Lm2Np3QrStUv4WxYz5Ab6CdEfGhIj", "status": false }
+      { "key": "Xk9Lm2Np3QrStUv4WxYz5Ab6CdEfGhIj", "status": false },
+      { "key": "TranMinhDuc", "status": true }
     ],
     "monthly": [
       { "key": "7JkLmN8pQrStU1vWxYz2AbCd3EfGh4Ij", "status": false },
